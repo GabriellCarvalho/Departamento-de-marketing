@@ -147,8 +147,3 @@ Este repositório contém um estudo de **segmentação de clientes de cartão de
 | **7** | Cliente novo | Baixo tenure | Onboarding e engajamento |
 
 ---
-
-## Autor
-
-Feito por **Gabriel Carvalho**  
-[![GitHub](https://img.shields.io/badge/GitHub-GabriellCarvalho-black?logo=github)](https://github.com/GabriellCarvalho)
